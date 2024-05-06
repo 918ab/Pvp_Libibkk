@@ -1,0 +1,7 @@
+name: Pvp
+version: '1.0.0'
+main: main.pvp.Pvp
+api-version: '1.20'
+commands:
+  토너먼트:
+    permission: op

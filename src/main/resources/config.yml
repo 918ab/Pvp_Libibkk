@@ -1,0 +1,42 @@
+Tournament-Multiple : 1.5
+Tournament-PriceDefault : 30000
+Tournament-Price1 : 1
+Tournament-Price2 : 3
+Tournament-Price3 : 5
+Tournament-Price4 : 7
+Tournament-Price5 : 10
+
+Tournament-TransformNumber : 3
+Tournament-Teleport-Player1:
+  x : 10
+  y : 10
+  z : 10
+  yaw : 10
+  pitch : 10
+  world : "world"
+Tournament-Teleport-Player2:
+  x : 10
+  y : 10
+  z : 10
+  yaw : 10
+  pitch : 10
+  world : "world"
+TournamentWorld:
+  1:
+    x1 : 1
+    y1 : 1
+    z1 : 1
+    x2 : 10
+    y2 : 10
+    z2 : 10
+    world : "world"
+    block : STONE
+  2:
+    x1: 1
+    y1: 1
+    z1: 1
+    x2: 10
+    y2: 10
+    z2: 10
+    world : "world"
+    block: GRASS_BLOCK
